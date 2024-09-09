@@ -1,2 +1,6 @@
 hi Hello
+<<<<<<< HEAD
 This is Master
+=======
+This is Check
+>>>>>>> check
